@@ -5,19 +5,11 @@
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> VPS AutoScript Xray, V2ray, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+<h1 align="center"> VPS AutoScript V2ray Core, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
 <div>
-  <img width="190" height="210" align="left" src="https://raw.githubusercontent.com/v2fly/v2fly-github-io/master/docs/.vuepress/public/readme-logo.png" alt="V2Ray"/>
-  <br>
-  <h1>v2ray-core Project V</h1>
-<h3 align="center">Project X Community</h3>
-<h3 align="center">Xray-core XTLS</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/71564206.png">
-   </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">   <img src="https://img.shields.io/badge/Service-Privoxy-green.svg">  
 
@@ -41,6 +33,8 @@ You can click the Preview link to take a look at your changes.
    </p>
   
   ## Register IP VPS: Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+  
+## SHOPEE :  <a href="https://shopee.com.my/shop/155733015/" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=shopee&label=Shopee&message=Click%20Here&color=blue"></a>  
   ## Installation :
 
 ```
@@ -94,6 +88,4 @@ chmod +x /var/run/screen
 -----------------------------Script by RARE-------------------------------------
 
 ## Credit :
-* CTechDidik Discussion Group™®)
-
-## Donations :  <a href="https://shopee.com.my/shop/155733015/" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Shopee&message=Click%20Here&color=blue"></a>
+* MACK-A
