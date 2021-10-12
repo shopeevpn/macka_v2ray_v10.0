@@ -17,19 +17,19 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s01.PNG">
+<img src="https://raw.githubusercontent.com/shopeevpn/macka_v2ray_v10.0/main/pic/01.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s02.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/macka_v2ray_v10.0/main/pic/02.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s03.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/macka_v2ray_v10.0/main/pic/03.PNG">
    </p>
      <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s04.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/macka_v2ray_v10.0/main/pic/04.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s07.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/macka_v2ray_v10.0/main/pic/05.PNG">
    </p>
   
   ## Register IP VPS: Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
