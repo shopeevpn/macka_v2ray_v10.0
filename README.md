@@ -5,7 +5,7 @@
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> VPS AutoScript V2ray Core, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+<h1 align="center"> VPS AutoScript V2ray Core, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/Version-10.0-blue.svg"></h1>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
