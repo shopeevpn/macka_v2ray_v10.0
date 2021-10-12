@@ -96,4 +96,4 @@ chmod +x /var/run/screen
 ## Credit :
 * CTechDidik Discussion Group™®)
 
-## Donations :  <a href="https://paypal.me/kchkix?locale.x=en_US" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Paypal&message=Click%20Here&color=blue"></a>
+## Donations :  <a href="https://shopee.com.my/shop/155733015/" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Shopee&message=Click%20Here&color=blue"></a>
