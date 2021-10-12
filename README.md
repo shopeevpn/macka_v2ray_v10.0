@@ -53,37 +53,32 @@ chmod +x /var/run/screen
    >>> Service & Port
    - OpenSSH                 : 22
    - OpenVPN                 : TCP 1194, UDP 2200
-   - OHP                     : 8087
    - Stunnel4                : 888, 777
    - Dropbear                : 109, 143
-   - Squid Proxy             : 3128, 8080 (limit to IP Server)
+   - Squid Proxy             : 3128, 8000 (limit to IP Server)
    - Badvpn                  : 7300
    - Nginx                   : 81
    - Wireguard               : 7070
    - Shadowsocks-R           : 1443-1543
    - SS-OBFS TLS             : 2443-2543
    - SS-OBFS HTTP            : 3443-3543
-   - Xray Vmess TLS          : 9443
-   - Xray Vmess None TLS     : 90
-   - Xray Vless TLS          : 543
-   - Xray Vless None TLS     : 643
-   - Xray Vless Tcp XTLS     : 443
-   - V2RAY Vmess TLS         : 8443
-   - V2RAY Vmess None TLS    : 80
-   - V2RAY Vless TLS         : 2083
-   - V2RAY Vless None TLS    : 8880
+   - v2ray VLESS XTLS SPLICE : 443
+   - v2ray VLESS XTLS DIRECT : 443
+   - v2ray VLESS WS TLS      : 443
+   - v2ray TROJAN TLS        : 443
+   - v2ray VMESS TLS         : 443
    - Trojan-GFW              : 2087
-   - Trojan-GO               : 2096
 
    >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
    - Fail2Ban                 : [ON]
-   - Dflate                   : [ON]
+   - DDOS Dflate              : [ON]
    - IPtables                 : [ON]
    - Auto-Reboot              : [ON]
    - IPv6                     : [OFF]
    - Auto-Reboot              : [ON]
    - Auto-Remove-Expired      : [ON]
+   - Installation Log --> /root/log-install.txt
 
 -----------------------------Script by RARE-------------------------------------
 
